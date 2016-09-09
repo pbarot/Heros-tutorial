@@ -1,0 +1,2 @@
+proxy=http://net-inspect-1.dhltd.corp:8080
+rejectUnauthorized=false
